@@ -1,4 +1,4 @@
-fetch('bio.txt')
+fetch('"https://github.com/JotapeJorge/jotape/raw/main/bio.txt')
   .then(response => response.text())
   .then(bioText => {
     // Display the bio text on your web page
@@ -8,7 +8,7 @@ fetch('bio.txt')
     console.error('Error fetching bio:', error);
   });
 
-fetch('book.txt')
+fetch('"https://github.com/JotapeJorge/jotape/raw/main/book.txt')
   .then(response => response.text())
   .then(bookText => {
     // Display the book text on your web page
