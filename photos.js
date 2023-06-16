@@ -6,7 +6,16 @@
       return array;
   }
   
-  var images = ["JP1.jpg", "JP2.jpg", "JP3.jpg", "JP4.jpg", "JP5.jpg", "JP6.jpg", "JP7.jpg", "JP8.jpg", "JP9.jpg", "JP10.jpg"]; // Add the file names of your images here
+  var images = ["https://github.com/JotapeJorge/jotape/raw/main/images/JP1.JPG", 
+                "https://github.com/JotapeJorge/jotape/raw/main/images/JP2.JPG", 
+                "https://github.com/JotapeJorge/jotape/raw/main/images/JP3.jpg",
+                "https://github.com/JotapeJorge/jotape/raw/main/images/JP4.jpg",
+                "https://github.com/JotapeJorge/jotape/raw/main/images/JP5.JPG",
+                "https://github.com/JotapeJorge/jotape/raw/main/images/JP6.JPG",
+                "https://github.com/JotapeJorge/jotape/raw/main/images/JP7.JPG",
+                "https://github.com/JotapeJorge/jotape/raw/main/images/JP8.JPG",
+                "https://github.com/JotapeJorge/jotape/raw/main/images/JP9.JPG",
+                "https://github.com/JotapeJorge/jotape/raw/main/images/JP10.jpg"];
   images = shuffle(images);
   var selectedImage = images[0];
   
