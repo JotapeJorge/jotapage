@@ -6,16 +6,16 @@
       return array;
   }
   
-  var images = ["https://github.com/JotapeJorge/jotape/raw/main/images/JP1.JPG", 
-                "https://github.com/JotapeJorge/jotape/raw/main/images/JP2.JPG", 
-                "https://github.com/JotapeJorge/jotape/raw/main/images/JP3.jpg",
-                "https://github.com/JotapeJorge/jotape/raw/main/images/JP4.jpg",
-                "https://github.com/JotapeJorge/jotape/raw/main/images/JP5.JPG",
-                "https://github.com/JotapeJorge/jotape/raw/main/images/JP6.JPG",
-                "https://github.com/JotapeJorge/jotape/raw/main/images/JP7.JPG",
-                "https://github.com/JotapeJorge/jotape/raw/main/images/JP8.JPG",
-                "https://github.com/JotapeJorge/jotape/raw/main/images/JP9.JPG",
-                "https://github.com/JotapeJorge/jotape/raw/main/images/JP10.jpg"];
+  var images = ["images/JP1.JPG", 
+                "images/JP2.JPG", 
+                "images/JP3.jpg",
+                "images/JP4.jpg",
+                "images/JP5.JPG",
+                "images/JP6.JPG",
+                "images/JP7.JPG",
+                "images/JP8.JPG",
+                "images/JP9.JPG",
+                "images/JP10.jpg"];
   images = shuffle(images);
   var selectedImage = images[0];
   
