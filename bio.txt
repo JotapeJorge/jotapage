@@ -1,0 +1,28 @@
+<p align=justify>Sou um jornalista apaixonado por tecnologia, ou talvez um professor de l&iacutenguas com uma quedinha 
+por linguagens de programa&#xE7;&atildeo. Gosto de livros, filmes, de palavras-cruzadas e de longas caminhadas at&eacute a geladeira.
+Sou formado pela Faculdade C&aacutesper L&iacutebero e estudei literatura na Universidade de S&atildeo Paulo (eu sei, eu sei).</p>
+
+<p align=justify>Hoje, al&eacute;m de <a href="https://www.personalvestibulares.com.br/"> professor de gram&aacutetica e literatura</a>, estudo programa&#xE7;&atildeo. 
+      Sim, eu programei este site. Fora o HTML, o CSS e JavaScript aqui demonstrados, sou versado em Python. 
+Tenho trabalhado com bibliotecas de an&aacutelise de dados, como Pandas, NumPy e MatPlotLib e, 
+atualmente, estou criando uma ferramenta de previs&atildeo de jogos de futebol (o que ainda n&atildeo 
+deu t&atildeo certo) e um <a href="https://en.wikipedia.org/wiki/Elo_rating_system"> ranking Elo</a> para 
+os times do Brasileir&atildeo. Nesse processo, tamb&eacute mexi bastante com web scraping e 
+coleta de dados.</p>
+
+<p align=justify>Antes de mexer com computadores, fui rep&oacuterter da <i>Revista Playboy</i>. Tenho
+dez anos de experi&ecircncia numa reda&#xE7;&atildeo nacional e tamb&eacutem escrevi para outras
+publica&#xE7;&otildees como <i>Exame</i>, <i>Galileu</i>, <i>Gula</i>, <i>Super Interessante</i> e <i>Vice</i>. </p>
+
+<p align=justify>Al&eacutem disso, escrevi um romance que, quem leu, gostou. <i><a href="novel2/">Destempo</a></i>
+foi chamado de "sincero, humano, criativo e muito bem escrito" (e nem foi pela minha m&atildee). O livro tamb&eacutem foi classificado
+como "muito bem estruturado" embora "n&atildeo seja muito comercial neste momento em que os leitores jovens 
+querem hist&oacuterias com tramas mais simples e pouco intelectualizadas".</p>
+
+<p align=justify>Tamb&eacutem escrevo (escrevia?) contos. Alguns deles est&atilde;o no <a href="https://medium.com/@jotapejorge"> Medium</a>,
+embora a maioria n&atilde;o. Voltarei a post&aacute;-los em breve.</p>
+
+<p align=justify>Ainda tive um <a href="novel2/">canal no YouTube</a>, o que me ensinou um bocado mais sobre falar
+para o p&uacuteblico. Podemos dizer que tenho "&oacutetima comunica&#xE7;&atildeo verbal e escrita". </p>
+
+<p align=justify>Me manda um <a href="mailto:jp.jorge89@gmail.com">e-mail</a>!</p>
