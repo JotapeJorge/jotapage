@@ -91,6 +91,7 @@ a:visited {
   align-items: stretch;
   padding-right: 20px;
   font-size: 102%;
+  text-align: left;
   position: relative;
   max-height: calc(100vh - 200px);
    }
