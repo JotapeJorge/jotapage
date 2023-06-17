@@ -90,7 +90,7 @@ a:visited {
   justify-content: flex-start;
   align-items: stretch;
   padding-right: 20px;
-  font-size: 100%;
+  font-size: 102%;
   position: relative;
   max-height: calc(100vh - 200px);
    }
