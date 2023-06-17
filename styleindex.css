@@ -101,7 +101,7 @@ a:visited {
 @media screen and (max-width: 850px) {
   .container {
     width: 90%;
-    font-size: 120%;
+    font-size: 110%;
     align-items: center;
     margin-top: 10px;
   }
@@ -140,7 +140,7 @@ a:visited {
 
 @media screen and (max-width: 850px) {
   .photo img {
-    width: 80%;
+    width: 90%;
   }
 
   .photo {
@@ -220,6 +220,7 @@ a:visited {
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .botton-button img {
@@ -234,12 +235,12 @@ a:visited {
   }
 
   .button {
-    max-width: 80%;
+    max-width: 90%;
     font-size: 20px;
   }
 
   .social-button img {
-    max-width: 80%;
+    max-width: 90%;
     max-height: 80%;
   }
 
