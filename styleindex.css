@@ -258,6 +258,10 @@ h1 {
   margin-top: 35px;
 }
 
+.lead {
+  font-size: 120%;
+}
+  
 h2 {
   font-family: 'Noto Sans', sans-serif;
   color: #B4BAC4;
