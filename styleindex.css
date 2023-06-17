@@ -259,8 +259,13 @@ h1 {
 }
 
 .lead {
-  font-size: 120%;
+  font-size: 100%;
 }
+  
+@media screen and (max-width: 850px){ }
+  .lead {
+ font-size: 120%;
+  }
   
 h2 {
   font-family: 'Noto Sans', sans-serif;
