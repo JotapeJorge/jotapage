@@ -260,6 +260,7 @@ h1 {
 
 .lead {
   font-size: 100%;
+  align: left; 
 }
   
 @media screen and (max-width: 850px){ }
