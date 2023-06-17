@@ -90,7 +90,7 @@ a:visited {
   justify-content: flex-start;
   align-items: stretch;
   padding-right: 20px;
-  font-size: 95%;
+  font-size: 100%;
   position: relative;
   max-height: calc(100vh - 200px);
    }
@@ -101,7 +101,7 @@ a:visited {
 @media screen and (max-width: 850px) {
   .container {
     width: 90%;
-    font-size: 110%;
+    font-size: 105%;
     align-items: center;
     margin-top: 10px;
   }
@@ -259,7 +259,7 @@ h1 {
 }
 
 .lead {
-  font-size: 100%;
+  font-size: 105%;
   align: left; 
 }
   
