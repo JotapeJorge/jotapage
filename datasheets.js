@@ -1,6 +1,6 @@
 // Perform AJAX request to fetch the JSON data
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'elo/dataELOranking.json', true);
+    xhr.open('GET', 'https://github.com/JotapeJorge/elodata/blob/203f53c8fe05573ffc2ea959abc480490ab928a2/dataELOranking.json', true);
     xhr.onload = function() {
       if (xhr.status === 200) {
         var jsonData = JSON.parse(xhr.responseText);
