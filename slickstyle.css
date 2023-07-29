@@ -1,5 +1,5 @@
 h3 {
-  font-family: 'SansOpen', sans-serif;
+  font-family: 'Big Noodle', sans-serif;
   font-size: 200%;
   margin-right: 10px;
   margin-left: 20px;
@@ -117,3 +117,42 @@ div#graphlegend.smaller {
     display: none;
   }
 }
+
+
+
+#timestampContainer {
+  font-style: italic;
+  top: 0;
+  text-align: right;
+  top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 850px) {
+  #timestampContainer {
+    font-size: 75%;
+    
+  }
+}
+
+/* Styles for the Elo Ranking and Kebab Menu container */
+.heading-container {
+  display: flex;
+  align-items: center;
+  margin-left:15px;
+  margin-top: 15px;
+}
+
+/* Styles for the Elo Ranking and Kebab Menu container */
+.heading-container {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles for the Elo Ranking */
+h3 {
+  margin: 0; /* Remove default margin to avoid spacing issues */
+}
+
+
