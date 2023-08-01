@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() 
+document.addEventListener('DOMContentLoaded', function() {
 // Perform AJAX request to fetch the JSON data
  var xhr = new XMLHttpRequest();
   xhr.open('GET', 'https://raw.githubusercontent.com/JotapeJorge/Brazilian-Football-Data/main/dataELOranking.json', true);
