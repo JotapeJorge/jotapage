@@ -64,12 +64,6 @@ h3 {
 .slick-row {
   background-color: #fff;
 }
-
-.slick-row:hover {
-  background-color: #202123;
-  color: #FFFFFF;
-}
-
 .slick-cell {
   padding: 10px;
   border: none;
