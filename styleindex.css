@@ -1,3 +1,4 @@
+/* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @font-face {
@@ -94,7 +95,8 @@ a:visited {
   text-align: left;
   position: relative;
   max-height: calc(100vh - 200px);
-   }
+}
+
 .container img {
   margin-top: 35px;
 }
@@ -106,8 +108,7 @@ a:visited {
     align-items: center;
     margin-top: 10px;
   }
-  
-@media screen and (max-width: 850px){ }
+
   .container img {
     max-width: 80%;
     max-height: 80%;
@@ -115,7 +116,7 @@ a:visited {
 }
 
 .text-container {
-  margin-top:20px;
+  margin-top: 20px;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -169,22 +170,22 @@ a:visited {
   text-align: center;
   cursor: pointer;
   margin-bottom: 10px;
-  }
+}
 
 .button a:link,
 .button a:visited,
 .button a:hover,
 .button a:focus,
 .button a:active {
-    color: inherit;
-    text-decoration: none;
-  }
+  color: inherit;
+  text-decoration: none;
+}
 
-.top-button-container{
+.top-button-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-botton: 20px;
+  margin-bottom: 20px;
 }
 
 .social-buttons {
@@ -222,7 +223,6 @@ a:visited {
   display: flex;
   align-items: center;
   justify-content: center;
-  
 }
 
 .botton-button img {
@@ -262,9 +262,9 @@ h1 {
 
 .lead {
   font-size: 105%;
-  align: left; 
+  align: left;
 }
-  
+
 h2 {
   font-family: 'Noto Sans', sans-serif;
   color: #B4BAC4;
@@ -273,16 +273,14 @@ h2 {
   margin-top: 20px;
 }
 
-
 h3 {
   font-family: 'Big Noodle', sans-serif;
   font-size: 300%;
   margin-right: 10px;
   margin-left: 35px;
   margin-top: 35px;
-  margin-bottom:10px;
+  margin-bottom: 10px;
 }
-
 
 p {
   font-size: 100%;
@@ -310,7 +308,6 @@ p {
 @media screen and (max-width: 850px) {
   #timestampContainer {
     font-size: 75%;
-    
   }
 }
 
@@ -318,18 +315,10 @@ p {
 .heading-container {
   display: flex;
   align-items: center;
-  margin-left:15px;
+  margin-left: 15px;
   margin-top: 15px;
-}
-
-/* Styles for the Elo Ranking and Kebab Menu container */
-.heading-container {
-  display: flex;
-  align-items: center;
 }
 
 h3 {
   margin: 0; /* Remove default margin to avoid spacing issues */
 }
-
-
