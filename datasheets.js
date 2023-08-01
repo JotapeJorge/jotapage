@@ -1,14 +1,14 @@
+document.addEventListener('DOMContentLoaded', function() 
 // Perform AJAX request to fetch the JSON data
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'https://raw.githubusercontent.com/JotapeJorge/Brazilian-Football-Data/main/dataELOranking.json', true);
-    xhr.onload = function() {
-      if (xhr.status === 200) {
-        var jsonData = JSON.parse(xhr.responseText);
-        populateGrid(jsonData); // Call a function to populate the grid with the JSON data
-      }
-    };
-    xhr.send();
-    
+ var xhr = new XMLHttpRequest();
+  xhr.open('GET', 'https://raw.githubusercontent.com/JotapeJorge/Brazilian-Football-Data/main/dataELOranking.json', true);
+  xhr.onload = function() {
+    if (xhr.status === 200) {
+      var jsonData = JSON.parse(xhr.responseText);
+      populateGrid(jsonData); // Call a function to populate the grid with the JSON data
+    }
+  };
+  xhr.send();
 // Function to populate the SlickGrid with the JSON data
 function populateGrid(data) {
   var columns = [
@@ -44,3 +44,4 @@ function populateGrid(data) {
   updateColumnVisibility();
   window.addEventListener('resize', updateColumnVisibility);
 }
+});
