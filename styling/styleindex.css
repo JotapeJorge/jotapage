@@ -60,7 +60,7 @@ a:visited {
 }
 
 .banner {
-  background-image: url("https://github.com/JotapeJorge/jotape/raw/main/images/banner.gif");
+  background-image: "images/banner.gif";
   background-size: cover;
   background-position: center;
   height: 100%;
@@ -72,7 +72,7 @@ a:visited {
   }
 
   .banner {
-    background-image: url("https://github.com/JotapeJorge/jotape/raw/main/images/banner-mini.gif");
+    background-image: "images/banner-mini.gif";
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
