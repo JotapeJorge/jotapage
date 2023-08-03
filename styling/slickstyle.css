@@ -61,10 +61,7 @@
     font-size: 14px;
   }
   
-  .slick-row:hover {
-    background-color: #202123;
-    color: #FFFFFF;
-  }
+
 div#graphlegend.smaller {
   font-size: 11pt;
   margin: 6px 0 0 3px;
