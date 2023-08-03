@@ -60,7 +60,7 @@ a:visited {
 }
 
 .banner {
-  background-image: "images/banner.gif";
+  background-image: url(images/banner-mini.gif);
   background-size: cover;
   background-position: center;
   height: 100%;
@@ -70,14 +70,12 @@ a:visited {
   .header {
     height: 100px;
   }
-
-  .banner {
-    background-image: "images/banner-mini.gif";
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    padding-bottom: 40px;
-  }
+.banner {
+  background-image: url(images/banner-mini.gif);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-bottom: 40px;
 }
 
 /* Container Styles */
