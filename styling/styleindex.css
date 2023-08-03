@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @font-face {
   font-family: 'Big Noodle';
-  src: url('big_noodle_titling.ttf') format('truetype');
+  src: url('fonts/big_noodle_titling.ttf') format('truetype');
 }
 
 /* General Styles */
@@ -192,6 +192,7 @@ a:visited {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 20px;
 }
 
 .social-button {
@@ -262,7 +263,6 @@ h1 {
 
 .lead {
   font-size: 105%;
-  align: left;
 }
 
 h2 {
