@@ -15,7 +15,7 @@ coleta de dados. Utilizando Beautiful Soup, montei uma base de dados com mais de
 dez anos de experiência numa redação nacional e também escrevi para outras
 publicações como <i>Exame</i>, <i>Galileu</i>, <i>Gula</i>, <i>Super Interessante</i> e <i>Vice</i>. </p>
 
-<p align=justify>Além disso, escrevi um romance que, quem leu, gostou. <i><a href="text/destempo.pdf">Destempo</a></i>
+<p align=justify>Além disso, escrevi um romance que, quem leu, gostou. <i><a href="https://jotapejorge.github.io/jotape/destempo.html">Destempo</a></i>
 foi chamado de "sincero, humano, criativo e muito bem escrito" (e nem foi pela minha mãe). O livro também foi classificado
 como "muito bem estruturado" embora "não seja muito comercial neste momento em que os leitores jovens 
 querem histórias com tramas mais simples e pouco intelectualizadas".</p>
