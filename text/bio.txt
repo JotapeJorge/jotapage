@@ -1,28 +1,29 @@
-<p align=justify>Sou um jornalista apaixonado por tecnologia, ou talvez um professor de l&iacutenguas com uma quedinha 
-por linguagens de programa&#xE7;&atildeo. Gosto de livros, filmes, de palavras-cruzadas e de longas caminhadas at&eacute a geladeira.
-Sou formado pela Faculdade C&aacutesper L&iacutebero e estudei literatura na Universidade de S&atildeo Paulo (eu sei, eu sei).</p>
+<p align=justify>Sou um jornalista apaixonado por tecnologia, ou talvez um professor de línguas com uma quedinha 
+por linguagens de programação Gosto de livros, filmes, de palavras-cruzadas e de longas caminhadas até a geladeira.
+Sou formado pela Faculdade Cásper Líbero estudei literatura na Universidade de SãoPaulo (eu sei, eu sei).</p>
 
-<p align=justify>Hoje, al&eacute;m de <a href="https://www.personalvestibulares.com.br/"> professor de gram&aacutetica e literatura</a>, estudo programa&#xE7;&atildeo. 
+<p align=justify>Hoje, além <a href="https://www.personalvestibulares.com.br/"> professor de gramática literatura</a>, estudo programação. 
       Sim, eu programei este site. Fora o HTML, o CSS e JavaScript aqui demonstrados, sou versado em Python. 
-Tenho trabalhado com bibliotecas de an&aacutelise de dados, como Pandas, NumPy e MatPlotLib e, 
-atualmente, estou criando uma ferramenta de previs&atildeo de jogos de futebol (o que ainda n&atildeo 
-deu t&atildeo certo) e um <a href="https://en.wikipedia.org/wiki/Elo_rating_system"> ranking Elo</a> para 
-os times do Brasileir&atildeo. Nesse processo, tamb&eacute mexi bastante com web scraping e 
-coleta de dados.</p>
+Tenho trabalhado com bibliotecas de análise de dados, como Pandas, NumPy e MatPlotLib e 
+atualmente estou desenvolvendo uma ferramenta para a previsão de jogos de futebol. O primeiro passo desse projeto foi a criação de um <a href="https://medium.com/@jotapejorge/ranking-elo-do-futebol-brasileiro-560549397b55"> ranking Elo</a> para 
+os times brasileiros. Você pode dar uma olhada nele clicando ali ao lado (ou<a href="https://jotapejorge.github.io/jotape/eloranking.html">aqui</a>). 
 
-<p align=justify>Antes de mexer com computadores, fui rep&oacuterter da <i>Revista Playboy</i>. Tenho
-dez anos de experi&ecircncia numa reda&#xE7;&atildeo nacional e tamb&eacutem escrevi para outras
-publica&#xE7;&otildees como <i>Exame</i>, <i>Galileu</i>, <i>Gula</i>, <i>Super Interessante</i> e <i>Vice</i>. </p>
+Nesse processo, mexi bastante com web scraping e 
+coleta de dados. Utilizando Beautiful Soup, montei uma base de dados com mais de 17 mil jogos contando todas as partidas das Séries A e B do Brasileirão, além da Copa do Brasil, desde 2003.</p>
 
-<p align=justify>Al&eacutem disso, escrevi um romance que, quem leu, gostou. <i><a href="novel2/">Destempo</a></i>
-foi chamado de "sincero, humano, criativo e muito bem escrito" (e nem foi pela minha m&atildee). O livro tamb&eacutem foi classificado
-como "muito bem estruturado" embora "n&atildeo seja muito comercial neste momento em que os leitores jovens 
-querem hist&oacuterias com tramas mais simples e pouco intelectualizadas".</p>
+<p align=justify>Antes de mexer com computadores, fui repórter da <i>Revista Playboy</i>. Tenho
+dez anos de experiência numa redação nacional e também escrevi para outras
+publicações como <i>Exame</i>, <i>Galileu</i>, <i>Gula</i>, <i>Super Interessante</i> e <i>Vice</i>. </p>
 
-<p align=justify>Tamb&eacutem escrevo (escrevia?) contos. Alguns deles est&atilde;o no <a href="https://medium.com/@jotapejorge"> Medium</a>,
-embora a maioria n&atilde;o. Voltarei a post&aacute;-los em breve.</p>
+<p align=justify>Além disso, escrevi um romance que, quem leu, gostou. <i><a href="text/destempo.pdf">Destempo</a></i>
+foi chamado de "sincero, humano, criativo e muito bem escrito" (e nem foi pela minha mãe). O livro também foi classificado
+como "muito bem estruturado" embora "não seja muito comercial neste momento em que os leitores jovens 
+querem histórias com tramas mais simples e pouco intelectualizadas".</p>
 
-<p align=justify>Ainda tive um <a href="novel2/">canal no YouTube</a>, o que me ensinou um bocado mais sobre falar
-para o p&uacuteblico. Podemos dizer que tenho "&oacutetima comunica&#xE7;&atildeo verbal e escrita". </p>
+<p align=justify>Também escrevo (escrevia?) contos. Alguns deles estão no <a href="https://medium.com/@jotapejorge"> Medium</a>,
+embora a maioria não. Voltarei a postá-los em breve e, quem sabe, escrava uma coisinha nova aqui e ali.</p>
+
+<p align=justify>Ainda tive um <a href="https://www.youtube.com/@feijaoatomico6944">canal no YouTube</a>, o que me ensinou um bocado mais sobre falar
+para o público. Podemos dizer que tenho "ótima comunicação verbal e escrita. </p>
 
 <p align=justify>Me manda um <a href="mailto:jp.jorge89@gmail.com">e-mail</a>!</p>
