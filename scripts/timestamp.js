@@ -1,7 +1,7 @@
 // Function to fetch the timestamp data
 async function fetchTimestampData() {
     try {
-      const response = await fetch('https://raw.githubusercontent.com/JotapeJorge/Brazilian-Football-Data/data-json/timestamps.json');
+      const response = await fetch('https://raw.githubusercontent.com/JotapeJorge/Brazilian-Football-Data/main/data-json/timestamps.json');
       const data = await response.json();
 
       // Access the timestamp from the JSON data
@@ -30,7 +30,7 @@ async function fetchTimestampData() {
     const year = date.getFullYear();
     const hours = date.getHours().toString().padStart(2, '0');
     const minutes = date.getMinutes().toString().padStart(2, '0');
-    return `Atualizado no dia ${day} de ${month} de ${year} às ${hours}h${minutes}`;
+    return `Atualizado em ${day} de ${month} de ${year} às ${hours}h${minutes}`;
   }
 
   // Call the function to fetch and display the timestamp data
