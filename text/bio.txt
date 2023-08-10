@@ -1,5 +1,5 @@
 <p align=justify>Sou um jornalista apaixonado por tecnologia, ou talvez um professor de línguas com uma quedinha 
-por linguagens de programação Gosto de livros, filmes, de palavras-cruzadas e de longas caminhadas até a geladeira.
+por linguagens de programação. Gosto de livros, filmes, de palavras-cruzadas e de longas caminhadas até a geladeira.
 Sou formado pela Faculdade Cásper Líbero estudei literatura na Universidade de São Paulo (eu sei, eu sei).</p>
 
 <p align=justify>Hoje, além <a href="https://www.personalvestibulares.com.br/"> professor de gramática literatura</a>, estudo programação. 
