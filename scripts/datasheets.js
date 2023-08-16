@@ -20,6 +20,7 @@ function populateGrid(data) {
   var columns = [
     { id: 'Rank', name: '#', field: 'Rank', minWidth: 10, maxWidth: 50, visible: true },
     { id: 'Time', name: 'Time', field: 'Time', visible: true },
+    { id: 'Série', name: 'Série', field: 'Série', minWidth: 10, maxWidth: 50, cssClass: 'hide-sm', visible: true },
     { id: 'Elo', name: 'Elo', field: 'Elo', visible: true },
     { id: '#', name: 'Rank', field: '#', minWidth: 10, maxWidth: 50, cssClass: 'hide-sm', visible: true },
     { id: 'Média', name: 'Média', field: 'Média', cssClass: 'hide-sm', visible: true },
