@@ -1,7 +1,7 @@
 // Function to fetch the timestamp data
 async function fetchTimestampData() {
     try {
-      const response = await fetch('https://raw.githubusercontent.com/JotapeJorge/Brazilian-Football-Data/main/data-json/timestamps.json');
+      const response = await fetch('https://raw.githubusercontent.com/JotapeJorge/Brazilian-Football-Data/main/data/timestamps.json');
       const data = await response.json();
 
       // Access the timestamp from the JSON data

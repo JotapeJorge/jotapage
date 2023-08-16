@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Perform AJAX request to fetch the JSON data
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', 'https://raw.githubusercontent.com/JotapeJorge/Brazilian-Football-Data/main/data-json/dataELOranking.json', true);
+  xhr.open('GET', 'https://raw.githubusercontent.com/JotapeJorge/Brazilian-Football-Data/main/data/dataELOranking.json', true);
   xhr.onload = function() {
     if (xhr.status === 200) {
       var jsonData = JSON.parse(xhr.responseText);
@@ -20,7 +20,7 @@ function populateGrid(data) {
   var columns = [
     { id: 'Rank', name: '#', field: 'Rank', minWidth: 10, maxWidth: 50, visible: true },
     { id: 'Time', name: 'Time', field: 'Time', visible: true },
-    { id: 'Série', name: 'Série', field: 'Série', minWidth: 10, maxWidth: 50, cssClass: 'hide-sm', visible: true },
+    { id: 'Série', name: 'Série', field: 'Série', minWidth: 10, maxWidth: 50, visible: true },
     { id: 'Elo', name: 'Elo', field: 'Elo', visible: true },
     { id: '#', name: 'Rank', field: '#', minWidth: 10, maxWidth: 50, cssClass: 'hide-sm', visible: true },
     { id: 'Média', name: 'Média', field: 'Média', cssClass: 'hide-sm', visible: true },
