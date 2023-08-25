@@ -1,15 +1,12 @@
-<p align=justify>Sou um jornalista apaixonado por tecnologia, ou talvez um professor de línguas com uma quedinha 
+<p align=justify>Sou um jornalista apaixonado por dados, ou talvez um professor de línguas com uma quedinha 
 por linguagens de programação. Gosto de livros, filmes, de palavras-cruzadas e de longas caminhadas até a geladeira.
-Sou formado pela Faculdade Cásper Líbero estudei literatura na Universidade de São Paulo (eu sei, eu sei).</p>
+Sou formado pela Faculdade Cásper Líbero e estudei literatura na Universidade de São Paulo (eu sei, eu sei).</p>
 
-<p align=justify>Hoje, além <a href="https://www.personalvestibulares.com.br/"> professor de gramática literatura</a>, estudo programação. 
-      Sim, eu programei este site. Fora o HTML, o CSS e JavaScript aqui demonstrados, sou versado em Python. 
-Tenho trabalhado com bibliotecas de análise de dados, como Pandas, NumPy e MatPlotLib e 
+<p align=justify>Hoje, além <a href="https://www.personalvestibulares.com.br/"> professor de gramática literatura</a>, trabalho com análise e engenharia de dados.  
+      Sim, eu programei este site. Fora o HTML, o CSS e JavaScript aqui demonstrados, sou versado em Python e SQL.
+Tenho trabalhado com bibliotecas como Pandas, NumPy e MatPlotLib e 
 atualmente estou desenvolvendo uma ferramenta para a previsão de jogos de futebol. O primeiro passo desse projeto foi a criação de um <a href="https://medium.com/@jotapejorge/ranking-elo-do-futebol-brasileiro-560549397b55"> ranking Elo</a> para 
-os times brasileiros. Você pode dar uma clicando ali ao lado (ou <a href="https://jotapejorge.github.io/jotape/eloranking.html">aqui</a>).</p>
-
-<p align=justify>Nesse processo, mexi bastante com web scraping e 
-coleta de dados. Utilizando Beautiful Soup, montei uma base de dados com mais de 17 mil jogos contando todas as partidas das Séries A e B do Brasileirão, além da Copa do Brasil, desde 2003.</p>
+os times brasileiros e a criação de uma série de pipelines de dados. Utilizando Beautiful Soup, montei uma base de dados com mais de 22 mil jogos contando todas as partidas das Séries A e B do Brasileirão, além da Copa do Brasil, desde 2003. Você pode dar uma olhada no resultado clicando ali ao lado (ou <a href="https://jotapejorge.github.io/jotape/eloranking.html">aqui</a>).</p>
 
 <p align=justify>Antes de mexer com computadores, fui repórter da <i>Revista Playboy</i>. Tenho
 dez anos de experiência numa redação nacional e também escrevi para outras
