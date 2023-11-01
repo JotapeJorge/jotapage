@@ -15,7 +15,8 @@
                 "images/JP7.JPG",
                 "images/JP8.JPG",
                 "images/JP9.JPG",
-                "images/JP10.jpg"];
+                "images/JP10.jpg",
+            "images/foto_perfil.jpg"];
   images = shuffle(images);
   var selectedImage = images[0];
   
