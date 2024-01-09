@@ -1,10 +1,10 @@
 <p align=justify>Sou um jornalista apaixonado por dados, ou talvez um professor de línguas com uma quedinha 
-por linguagens de programação. Gosto de livros, filmes, de palavras-cruzadas e de longas caminhadas até a geladeira.
+por linguagens de programação. Gosto de livros, filmes e de longas caminhadas até a geladeira.
 Sou formado pela Faculdade Cásper Líbero e estudei literatura na Universidade de São Paulo (eu sei, eu sei).</p>
 
-<p align=justify>Hoje, além de <a href="https://www.personalvestibulares.com.br/"> professor de gramática literatura na start-up educacional Personal Vestibulares</a>, trabalho com eles em análise e engenharia de dados, desenvolvendo pipelines para um app a adaptativo de questões. Sou versado em Python e SQL e tenho trabalhado com bibliotecas como Pandas, NumPy e MatPlotLib. Também tenho conhecimento sólido em JavaScript e HTML/CSS (sim, eu programei este site).</p>
+<p align=justify>Neste ano, comecei a trabalhar na área de tecnologia junto à <a href="https://vybrantech.com">Vybrant</a>, em um projeto ligado a uma grande empresa da área de transportes. Antes disso, fui <a href="https://www.personalvestibulares.com.br/"> professor de gramática literatura na start-up educacional Personal Vestibulares</a>, uma start-up de educação que me me permitiu dar os primeiros passos na área de engenharia de dados, desenvolvendo pipelines para um app a adaptativo de questões. Sou versado em Python (Pandas, PySpark, NumPy, Matplotlib, Seaborn, e Scikit-Learn) ae SQL (PostgreSQL, MySQL, SQL Server, Oracle). Também tenho conhecimento sólido em JavaScript e HTML/CSS (sim, eu programei este site).</p>
 
-<pAlém disso, estou criando uma ferramenta a previsão de jogos de futebol. O primeiro passo desse projeto foi a criação de um <a href="https://medium.com/@jotapejorge/ranking-elo-do-futebol-brasileiro-560549397b55"> ranking Elo</a> para 
+<p align=justify>Nas horas vagas, além de fazer palavras-cruzadas, mexo na minha ferramenta a previsão de jogos de futebol. O primeiro passo desse projeto foi a criação de um <a href="https://medium.com/@jotapejorge/ranking-elo-do-futebol-brasileiro-560549397b55"> ranking Elo</a> para 
 os times brasileiros e a criação de uma série de pipelines de dados. Utilizando Beautiful Soup, montei uma base de dados com mais de 22 mil jogos contando todas as partidas das Séries A e B do Brasileirão, além da Copa do Brasil, desde 2003. Você pode dar uma olhada no resultado clicando ali ao lado (ou <a href="https://jotapejorge.github.io/jotape/eloranking.html">aqui</a>).</p>
 
 <p align=justify>Antes de mexer com computadores, fui repórter da <i>Revista Playboy</i>. Tenho

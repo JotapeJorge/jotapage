@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Perform AJAX request to fetch the JSON data
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', 'https://raw.githubusercontent.com/JotapeJorge/Brazilian-Football-Data/main/data/dataELOranking.json', true);
+  xhr.open('GET', 'https://raw.githubusercontent.com/JotapeJorge/Back-End-Elo/main/data/dataELOranking.json', true);
   xhr.onload = function() {
     if (xhr.status === 200) {
       var jsonData = JSON.parse(xhr.responseText);
